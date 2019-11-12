@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68206725154",
+    "firebase_url": "https://rpa-awesome.firebaseio.com",
+    "project_id": "rpa-awesome",
+    "storage_bucket": "rpa-awesome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68206725154:android:9a98c9486fcfd2acfa627b",
+        "android_client_info": {
+          "package_name": "com.accenture.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68206725154-tuafakq4erburmd6dv5erpohsme54qs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiulM7wf2ITWRn48sLKlZThYDIIRpoLIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68206725154-tuafakq4erburmd6dv5erpohsme54qs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
