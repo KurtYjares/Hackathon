@@ -7,7 +7,7 @@
 ### Getting Started
 
 
-1) npm install - to install all required node modules
-2) react-native run-android - run this in terminal on initial startup
-3) adb reverse tcp:8081 tcp:8081 - run in terminal to connect phone that is in developer mode to PC
-3) npm start - start up application if no changes in back-end/not initial startup
+1) npm install - run in terminal to install all required node modules
+2) adb reverse tcp:8081 tcp:8081 - run in terminal to connect phone that is in developer mode to PC
+3) react-native run-android - run in terminal on initial startup
+4) npm start - start up application if no changes in back-end/not initial startup
