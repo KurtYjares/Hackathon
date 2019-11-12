@@ -2,6 +2,7 @@
 
 1) Node.js
 2) JDK
+3) Watchman (will be sent through Teams)
 
 
 ### Getting Started
